@@ -1,6 +1,6 @@
 <img width= "1500" src ="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
-# 👨🏻‍💻 [Prateek Ralhan](https://prateekralhan.com)
+# 👨🏻‍💻 [Prateek Ralhan](https://prateekralhan.com) (☕💻💡❤️)
 # Hola!:wave: :blush:
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
