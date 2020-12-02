@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-prateek_ralhan@swissre.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:prateek_ralhan@swissre.com)](mailto:prateek_ralhan@swissre.com)
 [![Gmail Badge](https://img.shields.io/badge/-ralhanprateek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralhanprateek@gmail.com)](mailto:ralhanprateek@gmail.com)
 <img align="right" width= "320" height="180" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-[![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true)](https://github.com/prateekralhan/github-readme-stats)
+[![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=tokyonight)](https://github.com/prateekralhan/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
 
