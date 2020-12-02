@@ -3,7 +3,7 @@
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
 
-# 👨🏻‍💻 [Prateek Ralhan](https://prateekralhan.com) (☕💻💡❤️)
+# 👨🏻‍💻 [Prateek Ralhan](https://prateekralhan.github.io) (☕💻💡❤️)
 # Hola!:wave: :blush:
 
 ## Connect with me :
