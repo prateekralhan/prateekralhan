@@ -1,4 +1,4 @@
-<img width= "1500" src ="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<img width= "1500" src ="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" />
 
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
