@@ -17,11 +17,11 @@
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=tokyonight)](https://github.com/prateekralhan)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
+---
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.aditya-sarawat.vercel.app/api/spotify)](https://open.spotify.com/user/31tgao6slcdet4ygz6mgboywp3ri)
-
+---
 Here are some [🦜 parrots](https://cultofthepartyparrot.com) :wink: :
 
 <div>
