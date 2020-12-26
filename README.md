@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.aditya-sarawat.vercel.app/api/spotify)](https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw)
+[![Spotify](https://novatorem.aditya-sarawat.vercel.app/api/spotify)](https://open.spotify.com/user/31tgao6slcdet4ygz6mgboywp3ri)
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com) :wink: :
 
