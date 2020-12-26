@@ -1,9 +1,14 @@
 <img width= "1500" src ="https://miro.medium.com/max/2000/1*GI962-BS7nWhAhfwqRqkXg.gif" />
+
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
+
 # 👨🏻‍💻 [Prateek Ralhan](https://prateekralhan.github.io) (☕💻💡❤️)
+
 # Hola!:wave: :blush:
+
 ## Connect with me :
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prateek-ralhan17/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ralhanprateek/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prateek.ralhan.3)
 [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCXJWeuSfr9cNYAK2SX2l8EQ?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-prateek_ralhan@swissre.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:prateek_ralhan@swissre.com)](mailto:prateek_ralhan@swissre.com)
@@ -16,7 +21,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.aditya-sarawat.vercel.app/api/spotify)](https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw)
----
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com) :wink: :
 
