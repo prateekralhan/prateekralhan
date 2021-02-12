@@ -15,7 +15,7 @@
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=tokyonight)](https://github.com/prateekralhan)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekralhan&theme=blue-green)
+
 ---
 ### Spotify Playing 🎧
 
