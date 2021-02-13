@@ -2,8 +2,6 @@
 >                                               — Socrates
 
 # 👨🏻‍💻 [Prateek Ralhan](https://prateekralhan.github.io) (☕💻💡❤️)
-
-# Hola!:wave: :blush:
 ---------------------------------------------------------------------------------
 ## ⚡ [Patents 📑☑️](https://github.com/prateekralhan/Achievements/tree/Patents)  ⚡  [Publications 📃☑️](https://github.com/prateekralhan/Achievements/tree/Publications)   ⚡   [Other Achievements 🏆☑️](https://github.com/prateekralhan/Achievements/tree/Other-Achievements)
 ---------------------------------------------------------------------------------
