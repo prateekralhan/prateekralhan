@@ -11,7 +11,7 @@
 [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCXJWeuSfr9cNYAK2SX2l8EQ?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-ralhanprateek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralhanprateek@gmail.com)](mailto:ralhanprateek@gmail.com)
 <kbd>
-<img align="right" width= "320" height="180" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/> 
+<img align="right" width= "300" height="180" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/> 
 </kbd>
 
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=tokyonight)](https://github.com/prateekralhan)
