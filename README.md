@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prateek-ralhan17/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ralhanprateek/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prateek.ralhan.3)
 [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCXJWeuSfr9cNYAK2SX2l8EQ?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-ralhanprateek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralhanprateek@gmail.com)](mailto:ralhanprateek@gmail.com)
-<img align="right" width= "290" height="180" alt="GIF" src="https://raw.githubusercontent.com/Arbazkhan4712/Arbazkhan4712/main/code.gif" />
+<width= "290" height="180" alt="GIF" src="https://raw.githubusercontent.com/Arbazkhan4712/Arbazkhan4712/main/code.gif" />
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=tokyonight)](https://github.com/prateekralhan)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
 
