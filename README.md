@@ -14,7 +14,7 @@
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula)](https://github.com/prateekralhan)
 ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekralhan&langs_count=3&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
-
+![Prateek's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prateekralhan)
 ---
 Here are some [🦜 parrots](https://cultofthepartyparrot.com) :wink: :
 
