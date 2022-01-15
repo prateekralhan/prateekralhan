@@ -47,6 +47,11 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
+
+**If you like my work, you can support me by buying me a coffee by clicking the link below**
+
+<a href="https://www.buymeacoffee.com/prateekralhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ---
 Here are some [🦜 parrots](https://cultofthepartyparrot.com) :wink: :
 
