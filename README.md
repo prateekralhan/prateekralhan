@@ -12,7 +12,8 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prateek-ralhan17/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ralhanprateek/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prateek.ralhan.3)
 [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCXJWeuSfr9cNYAK2SX2l8EQ?view_as=subscriber)
-[![Gmail Badge](https://img.shields.io/badge/-ralhanprateek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralhanprateek@gmail.com)](mailto:ralhanprateek@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralhanprateek@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prateekralhan17)
 
 ## ⚡ Technologies
 
@@ -34,12 +35,17 @@
 ![Opencv](https://img.shields.io/badge/-opencv-blue?style=flat-square&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-pandas-yellow?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy)
+![Flask](https://img.shields.io/badge/flask-black?style=flat-square&logo=flask)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power%20bi)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?style=flat-square&logo=arduino)
 ![Intel8051](https://img.shields.io/badge/-Intel8051-teal?style=flat-square&logo=intel8051)
 ![Atmega32](https://img.shields.io/badge/-Atmega32-black?style=flat-square&logo=atmega32)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
+![Anaconda](https://img.shields.io/badge/conda-green?&style=flat-square&logo=anaconda)
+![Markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown)
+
 
 <p float="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula"/>
