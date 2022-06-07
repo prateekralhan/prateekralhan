@@ -13,7 +13,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prateek-ralhan17/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ralhanprateek/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prateek.ralhan.3)
 [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCXJWeuSfr9cNYAK2SX2l8EQ?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralhanprateek@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prateekralhan17)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prateekralhan17) 
+
 
 ## ⚡ Technologies
 
@@ -54,9 +55,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
 
-**If you like my work, you can support me by buying me a coffee by clicking the link below**
+**If you like my work, you can support me by buying me a coffee or sponsoring by clicking the links below**
 
-<a href="https://www.buymeacoffee.com/prateekralhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+| <a href="https://www.buymeacoffee.com/prateekralhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> | [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/prateekralhan) |
+|-|-|
+
 
 ---
 Here are some [🦜 parrots](https://cultofthepartyparrot.com) :wink: :
