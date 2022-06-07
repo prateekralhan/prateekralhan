@@ -48,8 +48,8 @@
 
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" width="550" height="160"/>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" data-canonical-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" data-canonical-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="220" height="140" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
