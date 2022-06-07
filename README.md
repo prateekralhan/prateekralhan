@@ -15,7 +15,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralhanprateek@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prateekralhan17) 
 
-
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
