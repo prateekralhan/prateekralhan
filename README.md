@@ -47,7 +47,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown)
 
 
-<p float="center">
+<p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" width="550" height="160"/>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" data-canonical-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250" height="160" />
 </p>
