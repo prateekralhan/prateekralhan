@@ -54,6 +54,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 **If you like my work, you can support me by buying me a coffee or sponsoring by clicking the links below**
 
