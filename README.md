@@ -1,9 +1,9 @@
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
 
+<a href="https://github.com/prateekralhan"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dprateekralhan&longCache=true"/></a>
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2303FC30&center=true&vCenter=true&width=450&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Prateek!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))](https://prateekralhan.github.io/)
-
-
 
 ---------------------------------------------------------------------------------
 ## ⚡ [Patents 📑☑️](https://github.com/prateekralhan/Achievements/tree/Patents)  ⚡  [Publications 📃☑️](https://github.com/prateekralhan/Achievements/tree/Publications)   ⚡   [Other Achievements 🏆☑️](https://github.com/prateekralhan/Achievements/tree/Other-Achievements)
