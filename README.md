@@ -47,12 +47,13 @@
 ![Anaconda](https://img.shields.io/badge/conda-green?&style=flat-square&logo=anaconda)
 ![Markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown)
 
+&nbsp;
+<kbd>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" data-canonical-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="650" height="450" />
+</kbd>
 
-<p float="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula"/>
-<img src="https://streak-stats.demolab.com?user=prateekralhan&theme=dracula" data-canonical-src="https://streak-stats.demolab.com?user=prateekralhan&theme=dracula"/>
-</p>
+| ![](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula) | ![](https://streak-stats.demolab.com?user=prateekralhan&theme=dracula) |
+|-|-|
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
