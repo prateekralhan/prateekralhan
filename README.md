@@ -13,7 +13,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prateek-ralhan17/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralhanprateek@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prateekralhan17)
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/prateekralhan?style=for-the-badge)](https://peerlist.io/prateekralhan)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/prateekralhan)](https://github-readme-badge.peerlist.io/api/prateekralhan)
 [![Topmate](https://topmate-readme-badge.herokuapp.com/prateekralhan?style=for-the-badge)](https://topmate.io/prateekralhan)
 
 ## ⚡ Technologies
