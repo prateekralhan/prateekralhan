@@ -1,7 +1,11 @@
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
 
-<a href="https://github.com/prateekralhan"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dprateekralhan&longCache=true"/></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2303FC30&center=true&vCenter=true&width=450&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Prateek!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))](https://prateekralhan.github.io/)
 
@@ -54,10 +58,16 @@
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" data-canonical-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="650" height="450" />
 </kbd>
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 | ![](https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula) | ![](https://streak-stats.demolab.com?user=prateekralhan&theme=dracula) |
 |-|-|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prateekralhan&row=1&margin-w=15&theme=onedark)](https://github.com/prateekralhan/github-profile-trophy)
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=prateekralhan&theme=dark)](https://github.com/prateekralhan/github-profile-trophy)
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 **If you like my work, you can support me by buying me a coffee or sponsoring by clicking the links below**
